@@ -17,17 +17,29 @@
 .@ManytoOne Mapping
 .@ManytoMany Mapping
 
-.It can provide all details of Docters or 
+.It can provide all details of 
+Docters Class ,
+Patient Class,
+Appointment Class,
+Admin Class,
+BloodGroup Class,
+Gender Class,
+Qualification Class,
+Specialization Class,
+Gender Class.
 
 .Repositry
 
-.Database
+.My-SQL-Database
 
 ## Data Structure used in project
 
 .ArrayList is used
 ## Project Summry
 
-.This is a Restaurant model that we can to store data of the Restaurant .
+.This is a Doctor app project .
+.With the help of this project you can perform CRUD operation  with data of
+Docters ,Patient,Appointment,Admin,
+BloodGroup,Gender,Qualification,Specialization,Gender. all these class .
+.So you can easily manage data or understand .
 
-.With the help of this system we can easily see the Restaurant details.
